@@ -1,0 +1,45 @@
+ 
+
+CURATIO SPHAERAE. 501
+
+‘tum ab Am sunt quinque, (nam Am est semissis
+rectae AO), et quadratum ab Alc 4. Sed δὲ, 5, 4
+,sunt continue proportionales in ratione 5 ad 4.
+Nam multiplicatis omnibus per 4, fiunt (ratione non
+mutata) 25, 20, 16, quae sunt in continua ratione 5
+-ad 4.
+
+Etiam (intermissis quadratis alternis) quia qua-
+dratum ab Ac est {f} quadrati ab arcu ΒΟ, et qua-
+dratum ab AZ est 3 quadrati ab ΑΟ, erit quadra-
+tum ab ΑΟ ad quadratum ab AZ, ut 25 ad 16, id
+est, in duplicata ratione 5 ad 4. Deinde, quia AZ
+est aequalis semissi arcus ΒΟ, quadratum ejus erit
+„quarta pars quadrati ab arcu ΒΟ, id est, quorum
+„quadratum ab arcu ΒΟ est 25, eorum quadratum
+ab AZ est δὲ. Quia autem quadratum ab ΑΟ est
+,ἐξ ejusdem quadrati ab arcu ΒΟ, quadratum ab hL
+erit ᾗ. Sed quadratum ab eb est ᾗ. Est erg0‚
+rurSUS, quadratum ab AZ ad quadratum ab eb sive
+Ae in duplicata ratione 5 ad 4. Nam δὲ, 5, 4 sunt
+continue proportionales,
+
+Quare calculus arithmeticus demonstrationi geo-
+-metricae proxime praecedenti non repugnat.
+
+, Est tamen calculus alius arithmeticus, etiam
+‚verUS‚ qui repugnat, demonstrationem tamen non
+¹destruit. Procedit autem calculus quem dico, per
+‚Regulam Auream.
+
+ῑ .Exempli eausa: ostensum est quadratum a CG
+2aequale esse 10 quadratis a quinta parte arcus ΒΟ ;
+et rectam ΑΘ, duplam esse rectae Ae; et quadra-
+tum ab Ae aequale esse 4 quadratis a quinta parte
+,arcus BC; et proinde quadratum ab ΑΘ aequale
+esse 16 quadratis a quinta parte arcus ΒΟ ; et
+quadratum ab ΥΟ, aequale esse 8 quadratis ab
+
+PROP. X.
+κ-Ὓ--κ
+

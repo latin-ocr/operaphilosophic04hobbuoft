@@ -1,0 +1,44 @@
+466 DE MEDIIS
+
+APPENDIX.
+
+Cum in fine Capitis xxii ex data anguli omni-
+moda sectione divisionem etiam rationis omni-
+
+modam inveniri praesumpserim, id nunc qui fiat
+ostensurus sum.
+
+DE MEDIIS PROPORTIONALIBUS IN GENERE.
+
+INTER DUAS RECTAS DATAS INVENIRE MEDIAS
+PROPORTIONALES QUOTCUNQUE.
+
+SINT primo inveniendae duae mediae inter datas
+quascunque, AB majorem et AV minorem (fig. i).
+
+Fiat ab AB quadratum ABCD: et in lateribus
+AB, AD sumantur ΑΕ, AF, utraque aequalis AV.
+
+Inter AB et ΑΕ inveniatur media Aa, cui aequalis
+in latere AD sumatur Ab: ducaturque ab, quam
+ducta diagonalis AC necessario secabit bifariam et
+ad angulos rectos in d.
+
+Ducatur etiam diagonalis BD, secans AO in N.
+Itaque AC, BD secabunt se mutuo bifariam et ad
+angulos rectos in N.
+
+J ungantur Da, hE, ducaturque EF secans AC in
+o ; eruntque AN, Ad, Ao continue proportionaleS,
+in eadem ratione cum rectis AB, Aa, ΑΕ, sive AD,
+Ab, AF; et rectae BD, ab, EF continue propor-
+tionales.
+
+Centro N, radio NB, describatur arcus circuli
+BG, secans Da productam in G: item centro d,
+radio da, describatur arcus circuli ag, secans bE
+productam in g, ducaturque dg.
+
+Quoniam ergo est ut AD ad Aa, ita Aa, id est
+Ab, ad ΑΕ, erunt Da, bE parallelae, et anguli BDa,
+

@@ -1,0 +1,45 @@
+PPPPPPP
+
+492 QUADRATURA CIRCULI.
+
+idemque aequale triangulo ΑΨ. RursuS, quia tri-
+angulum qu aequale est sectori AGL, erunt trili-
+nea qu et Cyp aequalia, et ambo simul aequalia
+sectori AVP. Et proinde ACV÷Cyp aequale di-
+midio sectori ACL, id est triangulo Ayr: totum
+parti, quod est absurdum.
+
+Similiter, sector ALP una cum trilineo qu
+aequale erit triangulo ΑΨ, id est, pars toti: quod
+est absurdum.
+
+Si qu sumeretur supra triangulum AYQ, idem
+sequeretur absurdum.
+
+Est ergo triangulum ipsum AYQ aequale sectori
+ACL : id est, octava pars quadrati QRST duobus
+sectoribus ACP, APL simul sumptis, id est octavae
+parti totius circuli BCDE dati: et totum quadra-
+tum QRST aequale circulo integro BCDE.
+
+Inventum est ergo circulo dato quadratum
+aequale.
+
+Coroll. i. Si centro A, semidiametro Ab, quae
+sit media proportionalis inter latus AC et ipsius di-
+midium, describatur arcus circuli secans AO in b,
+et AV in e, et AC in Ιι, erit tum sectorculus Abc,
+tum quadrilineum VPbc, aequale trilineo CYP.
+Praeterea, si a puncto b ad latus AG ducatur per-
+pendicularis be, erit trilineum hbe dimidium trilinei
+
+Coroll. ii. Sequitur etiam excessum quadrati
+ABGC supra quadrantem ABG, esse ad excessum
+quadrantis ejusdem supra dimidium quadrati
+ABGC, ut 2 ad 3.
+
+Ducta enim a puncto L ad latus AG perpendicu-
+lari Lh, erit triangulum Ale dimidium trianguli
+
+AGG.
+

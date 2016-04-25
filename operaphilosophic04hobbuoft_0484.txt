@@ -1,0 +1,41 @@
+472 DE MEDns
+
+APPENDlx. neque propositionem, neque consequentiam ullam
+
+'‘P“ falsam reperiO, peccatorum omnium contra logicam
+absolvendam censeO. Neque illorum regulam il-
+lam utcunque speciosam legisse me memini in
+Aristotele, neque in alio scriptore logico,
+
+Exhibenda mihi igitur est demonstratio legitima,
+ubi assumptum aliquod ad constructionem, non
+tamen. adhibetur ad demonstrationem. Demon-
+strabo autem, absque trisectione anguli, inter rec-
+tam datam et ipsius semissem quaenam sint mediae
+duae proportionales
+
+Sint datae (fig. 3.) duae rectae AD, DV, facientes
+unam rectam AV. Sit autem DV semissis ipsius
+AD ; fiatque a majore AD quadratum ABCD. In-
+ter AD et DV inveniatur media proportionalis DE;
+cui in lateribus BC, AD ponatur aequalis AO et BR;
+jungaturque ΒΟ, et producatur.
+
+Secetur DO bifariam in K : centro autem K, in-
+tervallo KV, describatur circulus VIMX, secans CD
+in X, AD in M, et RO productam in I. Quoniam
+ergo Ro, CD sunt parallelae, anguli deinceps ad O
+et D sunt recti3 et DK, ΚΟ aequales3 et proinde
+etiam OM, DV aequales, AEquales item sunt IK,
+KX3 et IX diameter circuli VIMX, eademque
+aequalis rectae MV. Itaque ductis rectis VX, XM,
+MI, IV, erit VIMX rectangulum ι et tres rectae
+DM, DX, DV continue proportionales, Divisis
+autem MX, IV bifariam in Z et L, ducta ZL transi-
+bit per Κ; et secabit tum MX tum IV ad angulos
+rectOS.
+
+In recta IK sumatur IP aequalis DV. Erit ergo
+reliqua PX aequalis DM, et PK aequalis DK: item
+LK secabit angulum DKP bifariam.
+

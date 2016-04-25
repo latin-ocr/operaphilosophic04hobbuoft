@@ -1,0 +1,47 @@
+MATHEMATICAE HomERNAE. 205
+
+PROPOSITIO VII.
+
+Spatium cycloidale internum BA s, comprehen-
+sum a parte cycloidis B f et duabus rectis AB, A f,
+superat semicirculum genitorem, tantum quantum
+est trilineum 6 sm
+
+Nam, per praecedentem, spatium quadrilineum
+Bcem aequale est quadranti ABC. Quare qua-
+drilineum AB 7726 aequale est semicirculo genitori ;
+cui si addatur trilineum 7126f² fit spatium cycloidale
+integrum BA f Spatium ergo cycloidale BA f, etc.
+Quod erat demonstrandum.
+
+PROPOSITIO VII‘I.
+
+Si ducatur recta DC, et producatur ad BG in
+N ; juncta FN transibit per punctums.
+
+Cum enim DN transeat per C, erit BN aequalis
+diametro BD. Et quoniam BG est aequalis arcui
+semicirculi genitoriS‚ erit GN excessus quo arcus
+BCD superat diametrum BD. Est autem 6E
+semissis ipsius BG, et 6 f semissis diametri sive
+rectae BN. Quare recta E f est semissis rectae GN.
+Etiam FE est semissis FG. Ut ergo FG ad GN,
+ita FE ad E f Transit ergo FN per punctum f.
+Quod erat demonstrandum.
+
+PROPOSITIO IX.
+
+Triangulum rectilineum EFs aequale est spatio
+intercepto inter arcum quadrantis ABC et ejusdem
+subtensam.
+
+Triangulum GEF aequale est quadranti ABC.
+Et quoniam 6f aequalis θεῖ semidiametro, erit trian-
+gulum Ff6 aequale dimidio quadrato ab s 6. Re-
+liquum igitur triangulum rectilineum FEf aequale
+
+DIALOGUS
+
+VI.
+*7⁴
+

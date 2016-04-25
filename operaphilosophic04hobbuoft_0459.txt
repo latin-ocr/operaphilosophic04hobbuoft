@@ -1,0 +1,40 @@
+GEOMETRARUM. 447
+
+DE DIMENSIONE CIRCULI.
+
+PRINCIPIA ista quae supra a me reprehensa sunt, CAP. xx.
+mirum est etiam quantum ad pulcherrima geome- BT
+triae problemata invenienda viam obstruxerunt: mmuh·
+quorum exempla aliqua hic tibi exhibere, operae
+pretium esse puto.
+
+Sit quadratum ABCD. Centro A, intervallo AB,
+descriptus sit circuli quadrans ABD. Sec-entur
+latera AD, BC bifariam in E et F. Ducta EF se-
+cante arcum BD in G, erit arcus BG totius arcus
+BD pars tertia.
+
+Per punctum G ducatur recta IGK parellela la-
+teri BC, secans AB in I et CD in K, producaturque
+ad H, ita ut IH sit tripla IG: denique per H du-
+catur recta ΝΟ indefinita, et parallela DC.
+
+Ducatur BG chorda arcus BG, et producatur ad
+ΝΟ in O, secans CD in P. Deinde centro Β, inter-
+vallo ΒΟ, describatur arcus circuli secans BN pro-
+ductam in Q.
+
+Porro lateri BA adjungatur in directum AR
+aequalis duplae GF, et ducta RD, quae aequalis erit
+duplo lateri AD, producatur ad latus BC produc-
+tum in S; eritque CS aequalis tangenti 30 gra-
+duum; transibit autem Rs per H, terminum se-
+miradii KH. Ducatur Qa parallela NH, secans
+RS in a. Compleaturque parallelogrammum Raab.
+PostremO, diviso arcu BG bifariam in c, ductoque
+sinu arcus Bc, jungatur Rc. Hactenus constructio.
+
+Erit ergo sinus arcus Bc sexta pars rectae ba, et
+ipsi parallelus; ideoque vel in ipsa ba, vel supra,
+vel infra. Sumatur Ad sexta pars AD, et ducta
+

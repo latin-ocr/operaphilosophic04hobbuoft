@@ -1,0 +1,41 @@
+DE MAGNITUDINE cineum. 373
+
+indivisibile ; et propterea, sectoreS, et triangula senonum.
+et rectangula minuta, pro lineis rectis promiscue ψ
+semper numeravit; adeo· ut Elementum decimum,
+
+ingenii quidem magni specimen, sed inutile, etiam
+
+magna parte incertum reddidit.
+
+CONSTRUCTIO CUBI.
+
+Sit data recta quaecunque AG. Descriptoque
+ab ea quadrato ducatur diagonalis ΑΙ, cujus po-
+tentia dupla est potentiae lateris AG. RursuS‚ e
+recta ad punctum Ι erigatur perpendicularis Ιγ
+aequalis lateri AG, jungaturque Ay: poterit ergo
+Αγ triplum ejus quod potest AG. Eritque circulus
+descriptus ab diametro Ay, circulus maximus in
+sphaera in quo inscribitur cubus cujus latus est AG:
+eademque aequalis rectae FK vel Gk, quae itidem
+potest triplum ejus quod potest AG. Similiter
+quadratum a CL tertia pars est quadrati a BC, et
+BC diameter sphaerae in qua cubus a CL inscribitur.
+Quae proportio universaliter vera est in omni tri-
+angulo rectanguIO‚ cujus angulus unus est tertia
+pars recti. Itaque DS triplum potest rectae SO vel
+RV3 et Do potest ejusdem quadruplum. Item
+
+AO triplum potest ejus quod potest OC, propterea
+quod est ut AO ad DS, ita CO ad SO vel SC.
+
+PROPOSITIO XII.
+
+Arcus quadrantis BD aequalis est lateri cubi cir-
+cumscripti, una cum latere cubi inscripti, sphaerae
+cujus diameter aequalis est rectae BC. Si enim
+descriptus intelligatur circulus centro Ι, intervallo
+IE; et cubus cujus unum quadratum est ABCD:
+circulus descriptus centro I radio IE si intelligatur
+

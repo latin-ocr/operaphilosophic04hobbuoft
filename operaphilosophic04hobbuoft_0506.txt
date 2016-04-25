@@ -1,0 +1,42 @@
+PROP. 11.
+κ--Ὑ--κ
+
+494 CURATIO SPHAERAE. .
+
+erit quadrato F GHI parallelum, et distinctum par-
+tibus iisdem quibus distinguitur quadratum ipsum
+F GHI in dictis punctis. Atque idem continget, si
+eaedem perpendiculares productae sint ad eandem
+altitudinem, AC, infra horizontem.
+
+Similiter, si in punctis Q, P, θ, R, η, Ζ, S, ε, δ, Τ, γ, β,
+in altitudinem AY erigantur perpendiculares supra
+horizontem, planum ductum per illarum terminos
+erit quadrato QRST parellelum. Atque idem con-
+tinget etiam infra horizontem : eruntque facti duo
+cubi, quorum latera sunt GH et QR. Super cen-
+trum A constituatur quadratum adfg aequale dua-
+bus tertiis totius quadrati GHIF. Quoniam ergo
+quadratum QRST aequale est circulo BDOE, si ad
+puncta Q, R, S, T erigantur rectae perpendiculares
+quarum unaquaeque aequalis sit diametro ΟΕ, fiet
+solidum rectangulum aequale cylindro constituto in
+eadem altitudine.
+
+Hujus cylindri duae tertiae aequales sunt (per
+Archimedem) sphaerae a diametro CE: nempe, par-
+allelipipedum rectangulum cujus altitudo est ag,
+et duae dimensiones reliquae sunt TR et QR, aequale
+erit sphaerae. Inter latus TQ et altitudinem ag
+sumatur media proportionalis len, compleaturque
+quadratum lelmn. Quoniam ergo latera ΤΘ, lm, ag
+sunt continue proportionalia, erit quadratum lclmn
+aequale rectangulo sub TQ, ag. Quare quadratum
+klmn ductum in suum latus lm aequale erit solido
+sub TQ, lm, ag. Quoniam ergo ratio quadrati akn
+ad quadratum ab ag, duplicata est rationis quam
+habet altitudo lm ad ag, et altitudo ΤΘ, ad altitudi-
+nem ag duplicatam habet rationem ejus quam
+habet altitudo TQ ad altitudinem lm, erunt bases
+solidorum sub ΤΘ, lm, ag, et altitudines eorundem
+

@@ -1,0 +1,45 @@
+MATHEMATICAE HODIERNAE. 199
+
+in puncto α. Motus enim centri non variat alti-
+tudines circulatione acquisitas, quae semper sunt in
+altitudinum parallelis, Deinde radio 2 β ducatur
+arcus circuli, secans parallelam altitudines secun-
+dam in b. Quando ergo punctum Β propter mo-
+tum circularem deberet esse in suo arcu ad 2, erit
+propter motum rectum centri in eadem parallela
+altitudinis, ab b ,· eritque arcus a a aequalis arcui
+B 1, et arcus β b aequalis arcui B 2. Item si radio
+37 describatur arcus γε, secans tertiam altitudinis
+parallelam in e, erit arcus γε tripla arcus B l.
+Eadem methodo constituuntur reliqua puncta
+d, e, j} g, h, i, la, l ‚· per quae puncta cylclois debet
+transire. Quae est descriptio cycloidiS.
+
+Consectarium primum. Manifestum hinc est,
+arcus omnes αα, fib, γε, usque ad arcum semi-
+circuli GF, esse in ratione continua arithmetica.
+
+Consectarium secundum. Manifestum quoque
+est, si plures fierent divisiones, accuratiorem fore
+cycloidem, ratione arithmetica semper servata:
+et denique, si arcus ducerentur eadem methodo
+tot quot duci possibile est, impleretur spatium
+planum comprehensum duabus lineis curvis, nempe
+arcu semicirculi GF, et linea cycloide FdB, et
+denique recta BG.
+
+PROPOSITIO ΙΙ.
+
+Spatium trilineum inclusum cycloide et duabus
+rectis BG, GF, aequale est semicirculo ABCD.
+
+Nam arcus GHF, λΖ, xlc, ei, θΙι, et caeteri,
+secundum rationem arithmeticam perpetuo decres-
+centeS, aequales sunt totidem arcubus semicir-
+culorum integris, descriptis a radiiS‚ quorum
+maximus quidem esset EG, caeteri vero minores
+
+DIALOGUS
+
+vl.
+

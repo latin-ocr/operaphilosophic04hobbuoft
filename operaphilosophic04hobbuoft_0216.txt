@@ -1,0 +1,42 @@
+204 EXAMINATIO ET EMENDA'rio
+
+D1AL0GUS θθ. Erit ergo M centrum gravitatis trianguli BFG.
+ss Cum ergo centrum gravitatis bilinei BFB sit in K,
+erit centrum gravitatis spatii cycloidalis externi
+BGF in «ς’, ita ut MS, MK sint aequales, Et prop-
+terea, punctum S est in concursu parallelae ιι et
+
+DG. Quod erat demonstrandum.
+Consectarium. Centrum gravitatis spatii interni
+cycloidalis BFD, est in puncto L, ubi diagonalis
+DG ita dividitur, ut GL sit ad LD ut 7 ad 5. Cum
+enim spatium cycloidale internum BFD triplum sit
+spatii cycloidalis externi BGF, si centrum librae
+statuatur in puncto 6, erit 68 triplum distantiae
+centri gravitatis spatii cycloidalis interni ab eodem
+puncto 6, Sed 68 est triplum 6L. Est ergo
+centrum gravitatis spatii cycloidalis interni BFD
+in L. Dividitur autem recta DG, ita ut GL sit ad
+
+LD ut 7 ad 5, cum sit L in concursu εε et DG.
+
+PROPOSITIO VI.
+
+Quadrilineum mecm, comprehensum duabus
+curvis Bm, BC, et duabus rectis 6m, 60, aequalis
+
+est quadranti ABC.
+
+Secet enim recta 6B arcum Βο in q. Quoniam
+ergo 'triangulum rectilineum AB6 est pars octava
+rectanguli BDFG, erit idem aequale quadranti
+ABG. Ablato ergo spatio communi ABqC‚ erit
+reliquum spatium 6qC aequale bilineo BqB. Sed
+spatium 6mBC, comprehensum a parte cycloidis
+Bm et duabus rectis m6, 60, ostensum est aequale
+quadranti ABC. Itaque, si ipsi addatur spatium
+6 qC, et eidem auferatur bilineum BqB, erit factum
+spatium m6C B, comprehensum duabus curvis Bm,
+BC, et duabus rectis ⁷126, 6 0, aequale (ut ante) qua-
+dranti ABG. Quod erat demonstrandum.
+

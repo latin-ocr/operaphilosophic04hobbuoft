@@ -1,0 +1,38 @@
+202 EXAMINATIO ET EMENDATio
+
+DIALOGUS externum BFG, et bilineum BFB, inter se aequalia.
+ᾧ Rursus, triangulo rectilineo G6F aequale est trian-
+gulum rectilineum G6B. Dividitur ergo totum
+triangulum BGF a recta DG bifariam. Pars ergo
+cycloidalis spatii comprehensa parte cycloidis Fm
+et duabus rectis FG, Gm, una cum parte bilinei
+BFB, comprehensa ab eadem parte cycloidis Fm
+et duabus rectis F6, 6m, aequale est duobus spatiiS,
+nempe cycloidali BGm et parti bilinei BmssB.
+Cum autem triangulum rectilineum G6F aequale
+sit spatio cycloidali BFG, ablato communi spatio
+GmB restabit spatium Bm 6B (pars bilinei BFB)
+aequale spatio FGm, parti cycloidalis spatii externi
+reliquae. Quare spatium cycloidale ablatum, nempe
+BGm‚ aequale est parti reliquae bilinei F6m. Si
+ostendero jam spatium cycloidale FGm aequale
+esse spatio Fam parti bilinei BFB, necesse est ut
+
+quatuor illa spatia sint inter se aequalia. Dividatur
+recta Ge bifarium, id est, in «ς, ducaturque recta
+Fs secans cycloidem in n; eritque triangulum rec-
+tilineum GFs aequale triangulo ⁸126. Superat
+autem triangulum GFS spatium cycloidale FGm
+spatio trilineo snm, minus spatio bilineo FnF.
+Sed triangulum ‚91³6 (triangulo GFs aequale)
+superat spatium F6m (partem bilinei BFB) eodem
+spatio trilineo snm, minus spatio bilineo FnF.
+Sunt ergo partes trianguli G6F diremptae a parte
+cycloidis Fm,‚inter se aequales, Itaque recta DG
+secat tum rectangulum totum BGF tum partes
+erS, etc„ bifariam. Quod erat demonstrandum.
+
+PROPOSITIO IV.
+
+Partes duae cycloidalis spatii BFG, ut et partes
+

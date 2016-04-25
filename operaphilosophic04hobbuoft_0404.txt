@@ -1,0 +1,45 @@
+CAP. 1.
+
+De puncto.
+
+392 DE PRINCIPIIS ET RATIOCINATIONE
+
+si nihil sit, in duo nihila. Etiam circulus secari
+potest in sectores quotcunque: et proinde, cum
+omnis sector desinat in punctum, secabitur quoque
+centrum in totidem puncta, partes totidem centri;
+sive centrum illud quantitas sit, sive nihil. ’
+
+Definitio ergo puncti apud Euclidem, quemad-¹.
+modum eam intelligunt geometrae post Euclidem
+omneS, vitiosa est. Quam tamen, si nullum in:
+geometria errorem peperisset, praeteriissem.
+
+Definitio puncti vera, et quae vitium nullum. in
+demonstrationes illatura sit, talis esse debet: pune·
+tum est divisibile quidem, Sed eujus pars nulla in¹
+demonstratione consideranda est .· id est, conside—
+randum est, non ut punctum, quod Graece νυγμὴ di-
+citur; neque ut στιγμὴ, quae Graece est distinctio
+visibilis; quae ambo quanta sunt: sed ut signum,
+quod Graece est σημεῖον, quo verbo utitur EuclideS.
+Signum enim quanti nomen non est.
+
+Est enim geometria, seientia qua eoe aliqua vel
+aliquibus mensuratis per ratiocinationem determi-
+namus quantitates alia-s· non mensuratae. Recte
+igitur incepit Euclides a definitione mensurae, qua
+mensurantur longitudines: et primo loeo, mensurae
+illius terminum definiit, et signum esse dixit. Sed
+cujus rei signum? Signum, a quo mensurae ter-
+minus unus aut alter mensurato applicatur.
+
+Praeterea si punctum‘indivisibile esset, id est, non
+quantum, id est, nihil: sequeretur (supposito, ut
+nunc supponunt scriptores mathematici, quantita-
+tem dividi in infinitum, ut punctum sit pars lineae.
+infinite exigua) partem infinite exiguam lineae rec-
+tae, et quadratum quod sit minima pars quadrati,
+et cubum qui sit minima pars cubi, esse inter se
+aequalia.
+

@@ -1,0 +1,41 @@
+CONSTRUC·
+
+ΤῙΟ.
+ὶ-Ὓ-κ
+
+,360 PROBLEMATA PHYSICA.
+
+PROPOSITIONES XVI DE MAGNITUDINE
+CIRCULI.
+
+ 
+
+AD LECTOREM CYCLOMETRIAE STUDIOSUM
+PRAEFATIUNCULA.
+
+NE multitudine linearum in diagrammate a le-
+gendo deterream, monendus eS, rationem circum-
+ferentiae circuli ad diametrum demonstratam esse
+a constructione prima, constante ex lineis 'satis
+pauciS‚ et facile distinguendis. Habes ergo quod
+promittit titulus, in duabus primis propositionibus
+plene praestitum. Si tamen propositionum caetera-
+rum pulchritudO, ut illarum etiam demonstrationes
+legere et examinare veliS‚ suadeat, a lineis reliq'uis
+minorem habebis molestiam: et quanto plus pro-
+gredieris, tanto semper viam invenies procliviorem.
+
+ 
+
+CONSTRUCTIO Ι.
+
+DEscmBATUR quadratum ABCD, et dividatur in
+quatuor quadrata aequalia a duabus rectis EF, GH,
+se mutuo secantibus in I; ducanturque diagonales
+AC, BD. Centro A, radio AB ducatur arcus qua-
+drantis BD, secans rectam EF in Κ, et rectam GH
+in k, et AC in P ; itaque arcus BD sectus erit
+bifariam in P. Ducatur DK secans AC in Ο,
+et producatur ad BC in M. In producta BC su-
+matur CL aequalis CM. Item in DC sumatur recta
+

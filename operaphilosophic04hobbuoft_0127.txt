@@ -1,0 +1,47 @@
+MATHEMATICAE HomERNAE. 115
+
+mensuram maximam 3, facit 243. Ut ergo 147 ad DIALOGUS
+49, ita est 243 ad 81 : et ut 12 ad 4, ita est rursus »Ἐξ-κ
+243 ἃᾶ 81. Quare ut 147-1-12 ἃᾶ 49 -1-4, ita est
+
+243 ad 81. Et proinde ut radix quadratica 147 -1-
+
+radice quadratica 12 ad radicem quadraticam 49 -1-
+
+radice quadratica 4, id est ad 7 -1-2, ita est radix
+quadratica 243 ἃᾶ radicem quadraticam 81, id est
+
+7 42. Quare radix quadratica 243 aequalis est
+
+radici quadraticae 147 -1-radice quadratica 12. Quod
+
+erat demonstrandum.
+
+Similis est demonstratio subductionis, Est enim
+ut radix quadratica 147 ad radicem quadraticam
+12, ita 7 ad 2. Quare si subducatur 2 ex 7, erit
+ut radix quadratica 147—radice quadratica 12 ἃᾶ
+radicem quadraticam 12, ita 7—2, id est 5, ad 2.
+Est autem quadratus a 5:25: qui multiplicatus
+per eandem maximam mensuram communem 3,
+facit 75. Est ergo ut radix quadratica 147—radice
+quadratica 12, ad 7 —2, ita radix quadratica 75 ad
+7—2, sive ad 5. Est ergo radix quadratica 147—
+radice quadratica 12, aequalis radici quadraticae 75.
+Eadem est methodus etiam in subducendis adden-
+disque radicibus cubicis, et radicibus caeterarum
+potestatum, nisi quod in additione et subductione
+radicum quadraticarum quadratorum, qui ex divi-
+sione numerorum per maximam eorum communem
+mensuram oriuntur, summa vel differentia ducitur
+in communem mensuram ; in caeteris vero potesta-
+tum radicibUS, summa et differentia potestatum
+
+propriarum addendae, et substrahendae, et per
+numerorum propositorum maximam communem
+mensuram multiplicandae sunt.
+
+B. Sunt haec quidem liquido et breviter demon-
+strata3 sed fortasse etiam demonstrata sunt in capite
+1 2
+

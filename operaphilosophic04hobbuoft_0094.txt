@@ -1,0 +1,48 @@
+DIALOGUS
+
+11.
+
+82 EXAMINATIO ET EMENDATIO
+
+A. Rationes addendas propone quas viS.
+
+B. Rationi 2 ἃᾶ 3 adde rationem 4 ad 5, per
+multiplicationem.
+
+A. Multiplico antecedentes, 2 et 4, in se, qui
+faciunt 8; deinde multiplico in se consequentes
+3 et 53 producitur 15. Probandum est rationem
+8 ad 15, aequalem esse ambabus rationibus 2 ad 3,
+et 4 ad 5. Nam 4 multiplicans 2 et 3, facit 8 et
+12. Est ergo ratio 8 ad 12 eadem quae 2 ad 3.
+RurSUS, 3 multiplicans 4 et 5, facit 12 et 15. Est
+ergo 12 ἃᾶ 15 eadem ratio quae 4 ad 5. Sed in
+his numeris 8, 12, 15, ratio primae ad ultimam
+aequalis est ambabus rationibus simul 8 ad 12 et 12
+ἃᾶ 15, hoc est, ambabus rationibus 2 ἃᾶ 3 et 4 ad 5.
+Itaque demonstravi rationem rationi, per multipli-
+cationem in se antecedentium amborum et ambo-
+rum consequentium‚ additam esse, ut imperasti.
+
+B. Quomodo autem rationes altera alteri aliter
+addi possunt ?
+
+A. Si, nempe, ut antecedens est ad consequen-
+tem unius rationiS‚ ita fiat consequens alterius
+rationis ad quartam. Nam si rationi 2 ἃᾶ 3 ad—
+denda sit ratio 4 ad 5, fiat ut 4 ad 5, ita 3 ad aliam;
+prodibit 3} Ponantur ordine 2, 3, 3Ξ. Ratio ergo
+2 ἃᾶ 3} est summa rationum 2 ἃᾶ 3 et 3 ad 32}-
+Est enim ratio 3 ad 32} eadem quae ratio 4 ad 5.
+Et siquidem tres quantitateS, 2, 3, 3Ξ, multiplicen-
+tur omnes per 4, prodibunt 8, 12, 15, iidem numeri
+qui facti erant per multiplicationem.
+
+B. Recte demonstratum est. Sed nonne sicut
+ratio rationi additur per multiplicationem, ita sub-
+ductio unius rationis ex alia fieri potest per divi-
+sionem?
+
+A. Etiam. Nam, exempli gratia, a ratione 8 ad
+15 sit subducenda ratio 4 ad 5. Divido ambos
+

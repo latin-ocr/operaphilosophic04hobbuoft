@@ -1,0 +1,48 @@
+DIALOGUS
+
+II.
+„ss-d
+
+98 EXAMINATIO ET EMENDATIO
+
+tionum supersunt, inquit, vestigia-Nonne viden-
+tur tibi operationum vestigia expressiora esse, verba
+et ciphras scriptaS, sine quibus operatio fieri non
+potest, quam symbola, quibus carere potest, et
+semper caruit operatio arithmetica? Nisi forte
+putes A÷B dicendam esse additionem, aut AB vel
+A><B multiplicationem, et {divisionem esse A per
+B. Sed Rex, inquit, tota eaeemplo melius patebit.
+Itaque problema adducit, quod et per algebram et
+sine algebra solvi potest3 et utroque modo recte
+solvit3 ita tamen ut solutionibus illis nihil possit
+esse magis appositum ad ostendendum quod algebra
+non est analytica. Problema autem sic se habet
+carmine redditum:
+
+Accessit virgo tres supplex ordine Divos,
+
+Et tulit accedens asseS, quot nescio, secum.
+Oratus ductos geminavit Jupiter asses ;
+Protinus illa J ovi tres asses grata pependit.
+Quotque superfuerant duplavit Phoebus Apollo ;
+Grata itidem Phoebo tres virgo reddidit asses.
+Pallas tunc reliquos geminavit virginis asses ;
+Assibus et tandem tribus est donata Minerva.
+Unicus et superest, quem secum rettulit, assis.
+Dic mihi quot fuerant quos primo virgo serebat ⁸?
+
+Solvit autem per algebram sic:
+Pro ignoto numero assiumal-
+
+latorum ponit . . . , .- , . ld
+Qui duplatus a Jove fit . . ’ . 2⁴!
+Inde Jovi solutis 3 assibUS,
+
+restant ....... Δ 2α- 3 asses,
+Qui duplati ab Apolline,fiunt . 44- 6 asseS.
+Inde Apollini solutis 3 assibu‘S,
+
+restant ....... 44- 9 asses.
+Qui duplati a Pallade, fiunt . Sd—-lss asseS.
+

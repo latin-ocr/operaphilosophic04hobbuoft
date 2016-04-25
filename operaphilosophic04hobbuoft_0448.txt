@@ -1,0 +1,45 @@
+436 DE PRINCIPIIS ET RATIOCINATIONE
+
+CAP. xvn. duplo minorem esse ratione l ad 3, propterea quod
+
+Responsio „d sunt ambae rationes defectus Quoniam igitur
+
+giff‘ffiffvguffi ratio l ad 9 duplo minor est quam ratio l ad 3,
+manifestum est rationem 1 ἃᾶ 3 duplo majorem
+esse quam ratio l ad 9.
+
+His intellectiS, ostendendum est quomodo in his
+numeris 1. 100.10., ratio 1 ἃᾶ 10 componitur ex
+rationibus 1 ad 100 61; 100 ad 10.
+
+Quoniam enim rationes 100 ad 10 et 10 ἃᾶ 100
+simul additae faciunt rationem aequalitatis, id est,
+altera alterius quantitatem extinguit, restabit ratio
+l ad lO pro summa rationum l ad 100 61; 100 ἃᾶ
+1οε ut qui unum dederit carenti duobuS, facit ut
+careat tantummodo uno.
+
+Atque hoc exacte convenit cum Def. 5. Elem. vi.
+Nam antecedentes rationum 1 ἃᾶ 100 et 100 ἃᾶ 10,
+sunt l et 100: consequentes autem 100 ad 10.
+Antecedentes in se multiplicatae faciunt 100 : con-
+sequentes autem multiplicatae in se faciunt 1000:
+sed ratio 100 ad 1000 eadem est cum ratione com-
+posita l ad 10. Componitur ergo ita ratio 1 ἃᾶ 10
+ex rationibus l ad 100 et 100 ἃᾶ 10, ut partes
+componentes sint vere partes rationis compositae.
+Sed rationes 1 ἃᾶ 100 et 100 ad lO non sunt partes
+ejusdem rationis compositae l ad 10: neque esse
+possunt, cum sint diversi generis rationes
+
+Vides ergo rationem duplicatam duplam quoque
+esse, hoc est duplo majorem esse ratione quae du-
+plicari dicitur. Ut in iisdem proportionalibus l,
+
+10,100, ratio defectus 1 ἃᾶ 100, duplicata est ra-
+tionis defectus 10 ἃᾶ 100 (duplicata scilicet de-
+fectus ratione): et propterea etiam duplo major,
+quia sublatio defectus quantitatem auget.
+
+Manifeste hinc sequitur theorema hoc universale.
+

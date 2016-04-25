@@ -1,0 +1,45 @@
+PROP. vul.
+κ--Ὓ--κ
+
+498 CURATIO sPHAERAE.
+
+PROPOSITIO V111.
+
+Viginti quinque quadrata α quinta parte arcus
+BC vel reetoe GI, aequalia sunt decem quadrati-s· a
+semi-radio CO.
+
+Nam viginti quinque quadrata a quinta parte
+arcus BC, aequalia sunt quadrato ab ipso arcu BC
+sive a recta GI, id est (per praecedentem) decem
+quadratis a semi-radio CO: vel, quod idem 381,
+quadraginta quadratis a quarta parte lateris AC.
+
+Coroll. i. Decem quadrata a quinta parte arcus
+BC sunt aequalia quatuor quadratis a semi-radio CO,
+id 381, ipsi quadrato ab AC: quia 381 111 25 ad 10,
+ita 10 ad 4. -
+
+Coroll. ii. Item, quadratum a duabus quintis
+arcus BG aequale est quadrato ab Ae: quia 381 111
+25 ad 10, 113 10 ad 4, 31 811111 313118 BC, radius AC,
+et recta Ae continue proportionales
+
+Coroll. iii. Item, arcus quadrantis descripti a Gi
+ut semi—diametrO, aequalis 381 quintuplo semi-radio
+CO. Quadratum enim ab AG ad quadratum ab
+arcu BC 381 111 4 ad 10, ratio autem 4 ad 10 semissis
+est subduplicata rationis 4 ad 25. Quare arcus
+descriptus a Gi erit latus quadrati quod est aequale
+viginti quinque quadratis a semi-radio CO: quia
+quadratum ab AC, et quadratum a Gi, et quadratum
+a quintupla CO, sunt continue proportionales.
+
+Coroll. iv. Item, quintupla CO, recta Gi, recta
+CG, recta Ae, et ξ radii AG, sunt continue propor-
+tionales, Quorum enim Gi potest 25, eorundem
+AC potest 10. Quorum ergo AG potest 25, eorun-
+dem Ae potest 10. Est ergo Ae media proportio-
+nalis inter AC et duas quintas ejusdem. Ergo
+quintupla CO, recta Gi, etc.
+

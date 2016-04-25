@@ -1,0 +1,36 @@
+MATHEMATICAE HODIERNAE. 151
+
+sint trita. Sequitur Caput xxxix, de Aurea Regula mALocns
+composita3 quam primo per duas operationeS, W· ,
+deinde per unicam absolvit, sed non demonstrat.
+Nam ratiocinatio ejus ex eo dependet, quod regula
+composita ea est, qua, datis quinque numeris, in-
+venitur sextuS‚ ad quem ita se habeat tertius⁷ ut
+factus ex compositione rationum primi ad tertium
+sibi cognominem, et secundi ad quartam sibi quoque
+cognominem. Ratio enim effectuum componitur
+ex rationibus causarum singularum unius ad singu-
+las causas alterius ejusdem generis 3 ut hominum
+ad homineS, et mensium ad menses Itaque, ut
+exemplo utar quod ipse adfert, si 4 academici in 3
+mensibus expendant 20 libras ; qa‘ot libras expen-
+dent academici 6 in mensibus 12. Numeri dati
+sunt quinque ; 4 academici, 6 academici, 3 menseS,
+12 menseS, 20 librae. Scribantur ergo ·-}-, ᾖ. Ratio
+jam quae oritur ex compositione rationum 4 ad 6,
+et 3 ad 12, est ratio 12 ad 72. Quare ut 12 ad 72,
+ita est 20 ad quaesitum. Multiplicatus ergo 72 per
+20, fit 1440 ; qui divisus per 12, dat quaesitum 120.
+Caput xl, de regula societatiS, nihil habet in neu-
+tram partem singulare ; itaque transiliri potest. In
+Capite xli, ubi tractat de numeris fractiS, noto
+primo haec verba ; supponit arithmetica unitatem,
+sive unam, numerorum primum esse ‚· quod est fal-
+sum. Supponit hoc WallisiuS, non supponit arith-
+metica; nam unitatem Euclides numerum esse
+negat. Sed quaestio haec non magis ad arithmeti-
+corum, quam ad vulgi cognitionem pertinet. Et
+quid de ea sentiendum sit, a nobis satis dispu-
+tatum est supra ad Caput iv, SecundO, verba haec :
+Unam aliquod in partes dirimendam, vero aliquo
+

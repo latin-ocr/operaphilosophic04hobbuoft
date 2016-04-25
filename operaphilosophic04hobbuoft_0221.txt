@@ -1,0 +1,43 @@
+MATHEMATICAE HODIERNAE. 209
+
+parte cycloidis Ff, et rectas R, restabunt ex altera 1>1Anoens
+parte trilineum FEf‚ ex altera parte 6mf, inter se Ἦ· ,
+aequalia. Quod erat demonstrandum.
+
+PROPOSITIO XIV.
+
+Trilineum 6 f m aequale est complemento qua-
+drantis ERF ad quadratum radii ER.
+
+Sunt enim triangula rectilinea F E f, FRe aequa-
+lia, propter altitudinum inter se, et basium inter
+se aequalitatem. Quare utrumque eorum aequale
+est bilineo RFR. Est autem tam triangulum ree-
+tilineum 6EF, quam trilineum 6Fm, aequale qua-
+dranti ERF, et proinde aequalia inter se. Itaque
+si auferatur commune triangulum rectilineum F f R,
+restabunt ab una quidem parte duo triangula FEf‚
+FR6‚ quae sunt inter se aequalia, et ambo simul
+aequalia duplo bilineo RFR z ab altera vero parte
+duo trilinea‚ nempe triangulum rectilineum F f R,
+et trilineum 6 f m, quae ambo simul aequalia sunt
+duplo complemento quadrantis ERF ad quadratum
+radii ER. Sed cum duo triangula FEf‚ FRe
+aequalia sint duplo bilineo RFR, erit triangulum
+F f R aequale uno complementorum praedictorum :
+est enim quadrans aequalis duplo bilineo RFR una
+cum complemento ipsius quadrantis ad quadratum
+radii. Quare trilineum 6 s m aequale est altero
+complementorum. Trilineum ergo 6 f m, etc, Quod
+erat demonstrandum.
+
+PROPOSITIO XV.
+
+'Spatium cycloidale AB f, terminatum duabus
+rectis AB, A f et curva chf, aequale est qua-
+dranti ABG una eum quadrato Asszc.
+
+Ostensum enim est (Propvi) quod quadrilineum
+
+VOL. lv. p
+

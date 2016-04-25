@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaphilosophic04hobbuoft_0001.png"; bbox 0 0 2794 4056; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 862 649 891 1161">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 862 649 891 1161">
+     <span class='ocr_line' id='line_1_1' title="bbox 862 649 891 1161; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 862 936 891 1161; x_wconf 69' lang='grc' dir='ltr'>ῌΝΝΕΠΞΙΤΥ</span> <span class='ocrx_word' id='word_1_2' title='bbox 864 862 890 908; x_wconf 76' lang='grc' dir='ltr'>ΟΡ</span> <span class='ocrx_word' id='word_1_3' title='bbox 864 649 891 834; x_wconf 67' lang='grc' dir='ltr'>ΤΟΠΟΝΤΟ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 832 402 1156 1424">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 832 402 1156 1424">
+     <span class='ocr_line' id='line_1_2' title="bbox 832 402 1156 1424; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 832 402 1156 1424; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 899 501 1117 1340">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 899 501 1117 1340">
+     <span class='ocr_line' id='line_1_3' title="bbox 899 501 1117 1340; textangle 90"><span class='ocrx_word' id='word_1_5' title='bbox 1054 1304 1115 1340; x_wconf 83' lang='grc'>3</span> <span class='ocrx_word' id='word_1_6' title='bbox 1055 1063 1115 1231; x_wconf 84' lang='grc'>1761</span> <span class='ocrx_word' id='word_1_7' title='bbox 1055 601 1117 989; x_wconf 84' lang='grc' dir='ltr'>Οο386258</span> <span class='ocrx_word' id='word_1_8' title='bbox 899 501 1117 539; x_wconf 55' lang='lat'>&#39;5¹3</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

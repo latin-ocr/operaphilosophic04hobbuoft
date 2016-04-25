@@ -1,0 +1,48 @@
+CAP. XIV.
+b-—ss-—u
+
+De rationum
+calculo.
+
+428 DE PRINCIPIIS ET RATIOCINATIONE
+
+exprimit, non recte autem arithmetici dicunt esse,
+nempe, quotientem divisionis numeri per numerum
+esse rationem ipsam divisi ad divisorem: unde
+multa in geometriam irrepserunt absurda, et plura
+indies consequentur ; quorum causa magna ex parte
+fuit Clavii haec impropria locutio, Qualis etiam
+videtur tibi haec oratio in mathematicis: quanta
+sit magnitudo antecedens ad consequentem ,9 De-
+bebat enim dicere, quanta est magnitudo ante-
+cedens 'ut comparata cum consequente, vel quanta
+est ratio magnitudinis antecedentis ad magnitu-
+dinem consequentem. Scio Clavium linguae Latinae
+scientissimum fuisse: sed huic illius sententiae de
+compositione rationum inimica erat elocutio clara.
+
+CAP. XV.
+
+ETIAM DE RATIONUM CALCULO.
+
+CLAVIUs ex hac definitione quinta Elementi sexti
+recte infert, quod in magnitudinibus quibuscunque
+ordine positis, proportio primoe ad ultimam dice-
+tur componi ex proportione primoe ad secundam,
+et secundae ad tertiam, et tertioe ad quartam, etc.
+Cujus etiam demonstrationes aliquot adfert ex
+Theone, Vitellione, Eutocio et Apollonio: ita ut
+nullo modo a Clavio negari possit, qui ean-
+
+dem in numeris pro definitione ad Elem. vii Α ¹³ <³
+posuit. Itaque in tribus lineis A, B, C
+ordine expositiS, ratio A ad C componitur
+ex rationibus A ad B et B ad C: et rursus
+ratio C ad A componitur ex ratione C ad B
+
+et ratione B ad A.
+
+ 
+
+ 
+

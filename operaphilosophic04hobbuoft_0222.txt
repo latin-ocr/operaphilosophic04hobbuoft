@@ -1,0 +1,42 @@
+210 EXAMINATIO ET EMENDATIO
+
+mALoGus m6 CB terminatum duabus rectis m6,6 C, et duabus
+
+. v1. ‚ curviS, arcu BC et curva Bem, est aequale qua-
+dranti ABC. Cui additum spatium 6 f m, aequale,
+ut in praecedente ostensum est, complemento qua-—
+drantis ABG ad quadratum ABzC, facit planum
+>comprehensum a duabus curvis Bmf et arcu BC,
+et a recta fC, aequale quadrato ABzC. Cui si
+addatur rursus ipse quadrans ABG, fit totum pla-
+num, terminatum duabus rectis ΑΒ, Af, et curva
+Bm fi aequale utrique simul, quadranti ABG et
+quadrato ABzG. Quod erat demonstrandum.
+
+B. Cum rectangulum fwzC duplum sit quadran-
+tis ABG, et reetae parallelae, quae complent trili-
+neum sBCf, crescant a puncto B secundum pro-
+gressionem arithmeticam usque ad Cf aequalem
+arcui BC, ego credidissem, juxta doctrinam Wal-
+lisii in suaAritlzmetz'ca Infinitorum, spatium planum
+sB Cf aequale esse dimidio rectangulo fwzC, id est
+quadranti AB C.
+
+A. Vides ergo regulae Wallisianae falsitatem, et
+quod extra figuras rectangulas et earum partes
+nihil valet.
+
+Consect. i. Si ducatur recta Bs, erit factum
+spatium bilineum B f B aequale dimidio quadrato
+ABzC. Ducta enim recta fvr perpendiculari ad
+BG in π, et juncta fz, erit rectangulum fz, con-
+tentum sub fC, quae aequalis est arcui ABG, et
+sub radio fv, aequale duplo quadranti ABC; et
+proinde totum rectangulum Bf aequale duplo qua-
+dranti una cum quadrato ABzC. Et triangulum
+rectilineum AB f aequale uni quadranti ABG una
+cum dimidio quadrati ABzC. Quare quod restat,
+bilineum Β s Β, aequale est alteri dimidio quadrati
+
+ABzC.
+

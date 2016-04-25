@@ -1,0 +1,42 @@
+DE MAGNITUDINE CIRCULI. 367
+
+dine arcus idem ponitur BD, arcus autem ST
+aequalis est rectae DC. Est ergo etiam DS aequalis
+duabus quintis arcus BD.
+
+Coroll. Semissis ergo rectae DS aequalis est
+quintae parti arcus BD. Quare si semissis DS (id
+est, Fu) quintuplicetur, tota aequalis erit rectae BM:
+et proinde arcus Mm aequalis est quintuplae BE.
+Cum enim arcus ST aequalis sit rectae AB, erit
+arcus quadrantis descripti a dimidia DS aequalis
+rectae BE, et arcus descriptus a dimidia DS quin-
+tuplicata aequalis quintuplae BE.
+
+PROPOSITIO VII.
+
+Semissis arcus BD (nempe BP), recta QP (quae
+media est proportionalis inter AB et AG), et Ro
+sive DS, sunt continue proportionales Quoniam
+AB media est proportionalis inter arcum BD et
+rectam DS vel Ro, eademque media proportionalis
+inter AC diagonalem, et ejusdem semissem, nempe
+ΑΙ, erit ut arcus BD ad diagonalemAC,ita reciproce
+AI ad DS vel Ro ; et per consequenS, ut BP semissis
+ipsius arcus BD ad AI, itaAI semissis AC ad eandem
+DS vel ΒΟ. Sunt ergo arcus ΒΡ, recta QP (sive
+AI), et DS sive ΒΟ, continue proportionales. Sunt
+autem tres arcus BP, ΒΟ, et fh continue propor-
+tionales Nam Bf est quinta pars lateris AB, et
+Af quatuor quintae ejusdem AB ς et proinde s h est
+duae quintae arcus BD, quam aequalem esse rectae
+RO ostensum est in corollario praecedentis propo-
+sitionis· Cum ergo arcus eO medius sit propor-
+tionalis inter arcum BP et arcum fh, erit arcus
+eO medius proportionalis inter arcum BP et rectam
+R0; et proinde aequalis rectae QP; sunt ergo arcus
+BP, recta QP, et recta Ro continue proportionales
+
+PROP. VI.
+*qr—d
+

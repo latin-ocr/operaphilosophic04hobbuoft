@@ -1,0 +1,43 @@
+CURATIO SPHAERAE. 499
+
+Coroll. v. Eadem Ae aequalis est duabus quintis PROP. vm.
+arcus BC. Nam quadrata a Gi, AC, Ae, sunt ξ-Ϊζ, ¹3⁰, *γυ
+et ἐς. Quare latus Ae est ξ arcus BC.
+
+Notandum quod rectae Gi, AC, Ae dupliciter aesti-
+mantur: uno modo per partes arcus BC, alio per
+
+partes radii AC.
+
+PROPOSITIO IX.
+
+Si a puncto n ducatur reeta nm parallela CG,
+secans AC in m: dico septem rectas AC, AY, AZ,
+Ah, Ae, Am, Ak, esse continue proportionales,
+Cum enim AC, AY, AZ sint continue proportio-
+naleS, per constructionem: ostensumque sit AZ, Ah,
+Ae esse continue proportionales: positis ordine
+quantitatibus AC, AY, AZ, Ah, Ae, ratio AC ad Ae
+erit (per Eucl. xiv. 28) duplicata rationis AY ad
+Ah. Sed ratio AY ad AZ subduplicata est rationis
+AC ad AZ. Quare ratio AY ad AZ, eadem est cum
+ratione AZ ad Ah vel Alz ad Ae. Sunt ergo AC,
+AY, AZ, Ah, Ae continue proportionales, RurSUS,
+quia AG, Ah, Ak sunt continue proportionales:
+(nam Ab aequalis est dimidiae diagonali AG) ε et AZ,
+Ah, Ae sunt ostensae continue proportionales: erit
+ut AG ad AZ, ita reciproce Ae ad Alc.
+ἓ Quia denique tres rectae Ab, An, Al sunt aequales
+’ἕ tribus AY, AZ, Ah continue proportionalibUS, etiam
+ἓ ipsae sunt continue proportionales,
+Sunt ergo septem rectae AC, AY, AZ, Ah, Ae,
+Am, Alc continue proportionales
+Propositio haec sine alia demonstratione perspicua
+est ab ipso diagramatis intuitu. Impossibile enim
+est ut septem rectae continue proportionales sint in
+
+ratione CG ad QY, nisi arcus ab antecedente de-
+K K ἱ)
+
+ 
+

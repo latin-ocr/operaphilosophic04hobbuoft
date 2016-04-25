@@ -1,0 +1,47 @@
+CAP. XXII.
+ψὛ-,ί
+
+De sectione
+auguli.
+
+454 DE PRINCIPIIS ET RATIoclNATIONE
+
+Est ergo arcus Ba datus divisus trifariam a rectis
+Ra, Rs.. Eodem modo potest arcus non major quam
+arcus BG, dividi quinquifariam vel in ratione qua-
+cunque data. Sicut etiam arcus major quam BG,
+Si bisecetur donec pars ejus minor sit quam BG:
+nempe partem inventam duplicando toties quoties
+datus bisectus fuerat.
+
+Angulum ergo in ratione data divisimus ε et prop-
+terea, etiam proportionem datam dividere docui-
+mus in partes aequales quotcunque requirentur.
+quue methodo brevi et perspicua.
+
+ 
+
+CAP. XXIII.
+
+DE QUANTITATE RECTAE COMPosrrAE Ex RADIo
+cuicum ET TANGENTE 30 GRADUUM. ITEM,
+DUBITATIO SUPER PROP. 47. ELEM. 1, ETC.
+
+QUADRATUM rectae compositae ex radio circuli et
+tangente arcus 30 graduum, est ad quadratum a
+radio, ut decem ad quatuor.
+
+Sit radius circuli AB, cujus quadratum sit ABCD.
+Ducatur arcus BD, qui est quadrans circuli descripti
+ab AB.
+
+Secetur quadratum ABCD in quatuor quadrata
+aequalia a rectis EF, GH, secantibus se mutuo in Ι.
+Secet autem GH arcum BD in K: jungaturque
+recta AK, producaturque ad BC in L: erit BL tan-
+gens 30 graduum.
+
+Rectae BL adjiciatur in directum LM, aequalis
+BC. Erit ergo tota ΒΜ composita ex BC radio
+circuli, et CM tangente 30 graduum.
+

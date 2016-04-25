@@ -1,0 +1,45 @@
+PROP. XII.
+*5⁶⁴
+
+506 DUPLICATIO cum.
+
+Constat item, si in recta GH, quae est dupla OG,
+sumatur Gp quae sit dupla Ae; cum Gi sit dupla
+Ze ; quatuor rectas GH, Gi, (ΞΡ, GC, esse continue
+proportionales, Itaque posito cubum a GH esse
+64, cubus a Gi erit 32, cubus a Gp 16, cubus a GC
+8, cubus a Ze 4, cubus ab eb 2, cubus a kl vel Alc l.
+
+Item, sphaeram medio loco proportionalem esse
+inter cubum a sui ipsius diametr0‚ et cubum a qua-
+drante perimetri circuli sui maximi.
+
+Item, latera quinque figurarum regularium (in
+hac figura ii) distinguuntur sicut sequitur. Si cen·
+tro P, intervallo PY vel Po, describatur circuluS,
+latus pentagoni circulo hino inseripti erit latus ico-
+sahedri inscripti sphaerae eujus diameter est 00,
+centrum l. Nam quadratum ab YP vel ΡΘ. aequale
+est quinque quadratis a quinta parte diametri Oo
+vel GC. Cum enim quadratum a GC aequale sit 25
+quadratis a quinta sui parte, quadratum ab ΥΟ,
+aequale erit 20 quadratis a quinta parte ejusdem
+GC vel 00. Ergo quadratum ab YP vel Pa, nempe
+quarta pars quadrati ab YQ, aequale est quinque
+quadratis a quinta parte diametri 00. Quare (per
+Eucl. xiii. 16) latus icosahedri sphaerae inseripti
+eujus diamater est 00, aequale est lateri pentagoni
+inscripti circulo cujus diameter est YQ.
+
+Latus cubi eidem sphaerae inscripti est reeta Ga
+vel Gi, nempe tangens 30 graduum in circulo cujus
+semidiameter est BC. Nam BC, sive 00, triplum
+potest tangentis 30 graduum, ideoque (per Eucl.
+xiii. 15) Ga est latus cubi inscripti eidem sphaerae.
+
+Latus dodecahedri in eadem sphaera inscripti, est
+majus segmentum rectae Ga, id est lateris cubi, ex-
+trema et media ratione secti (per Euel. xiii. 17).
+
+Latus tetrahedri aequale est rectae quae subtendit
+

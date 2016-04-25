@@ -1,0 +1,43 @@
+APPENDIX.
+-Ὑ-κ
+
+478 DE Munus
+
+et altitudines reciprocantur. Quare (per prop. 34,
+Elem. xi) erit cubus a DM (cubus autem est paral-
+lelipipedum) aequalis pa1·allelipiped0‚ cujus basis
+est aequalis quadrato DEIA, altitudo aequalis ln
+sive AD.
+
+Sed quadratum DEch aequale est rectangulo sub
+AD, DV, id est, rectangulo MR: parallelipipedum
+autem sub rectangulo MR ductum in OR aequalem
+AD, est dimidium cubi totius a latere AD, id est,
+aequale quatuor cubis a latere DV. Itaque recta
+DM est mediarum duarum inter AD, DV major,
+etc. Quod erat demonstrandum.
+
+Ostendam jam rectam DO semissem esse tan-
+gentis 30 graduum. Secet Ro rectam Ek in y;
+eritque Oy sinus 45 graduum. Itaque utraque rec-
+tarum Ay, ch aequalis erit AB, videlicet lateri to-
+tius quadrati ABCD. Circulus ergo descriptus
+radio DC transibit per lc, et circulus descriptus ra-
+dio AB transibit per y.
+
+A puncto y erigatur recta ya perpendicularis
+ipsi Ay, secans BC in α, producaturque ay ad latus
+CD in z. Erit ergo triangulum Caz aeqnicmrum,
+et anguli ejus ad α et z semirecti. Producatur gr
+ut secet arcum Gk in β, eritque angulus DCss tertia
+pars recti. Quare producta Dc faciet cum latere
+CB angulum aequalem duabus tertiis recti.
+
+Quoniam autem angulus Rya est semirectUS, et
+angulus CDss tertia pars recti, faciet Dss producta
+cum ya angulum anguli recti partem sextam. Sed
+angulus Ray, qui etiam est semirectuS, una cum
+sexta parte recti faciet duas tertias recti. Quare
+juncta 'affl et producta incidet in D. Est ergo
+Ca tangens anguli 30 graduum, et huic aequalis Cz.
+

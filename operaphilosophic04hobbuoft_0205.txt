@@ -1,0 +1,41 @@
+MATHEMATICAE HomERNAE. 193
+
+QF erit ad RF, ut velocitas qua describitur QF ad mALoGus
+velocitatem qua describitur RF 3 et sic de caeteris v.
+omnibus rectis rectae DB parallelis, Ut ergo rectae,
+quae sunt parallelae lateri AB, terminanturque in
+linea BEFC‚ sunt mensurae temporum; ita rectae,
+quae sunt parallelae lateri BD, terminataeque in
+eadem linea BEFC‚ sunt mensurae velocitatum.
+Nam concessum est, in qua ratione augentur velo-
+citateS, in eadem augeri rectas eodem tempore per-
+cursaS, id est, rectas QF, ΟΕ, ’Β D, etc.
+
+B. Verum est.
+
+A. J am lineae illae omnes QF, ΟΕ, D B, etc., con-
+stituunt planum DBEFC, et lineae omnes HF, GE,
+AB, etc„ constituunt planum ACFEB : quarum illae
+sunt aggregatum velocitatum, hae aggregatum tem-
+porum. Ut igitur aggregatum velocitatum ad
+aggregatum temporum, ita complementum DBEFC
+ad figuram ABEFC. Siquidem ergo rationes DB
+ad ΟΕ et OE ad QF fuerint ubique rationum AB
+ad GE et GE ad HF (exempli causa) triplicatae,
+erunt vice versa rationes OE ad DB et QF ad OE,
+rationum GE ad AB et HF ad GE subtriplicatae.
+Quare aggregatum omnium QF, ΟΕ, BD, etc., ag-
+gregati omnium HF, GE, ΑΒ, etc., erit (per assump-
+tum secundum) subtriplum. Ut ergo aggregatum
+velocitatum ad aggregatum temporum, quibus de·-
+scribuntur figura deficiens et complementum, ita
+erit ipsum complementum ad figuram ipsam, nimi-
+rum, complementum DBEFC ad figuram ABEFC ε
+quod erat demonstrandum.
+
+B. Sequitur hinc, quod cum in triangulis basis
+decrescit in ratione temporum, parallelogrammum
+erit sui trianguli duplum; cumque basis semipara-
+>bolae decrescat in ratione temporum duplicata, erit
+VOL. lv. o
+

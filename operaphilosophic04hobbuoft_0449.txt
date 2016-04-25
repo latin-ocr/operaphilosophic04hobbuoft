@@ -1,0 +1,45 @@
+GEOMETRARUM. 437
+
+Si fuerint quotcunque magnitudines continue
+proportionaleS, quarum prima est maxima 3 quanto
+prima ad aliam a se remotiorem quam est proxima,
+majorem rationem habet quam ad ipsam proximam;
+tanto in iisdem magnitudinibUS, inverso ordine col-
+locatiS, minima majorem rationem habet ad sibi
+proximam, quam ad remotiorem in eadem distan-
+tia. Exempli gratia: in his magnitudinibUS, 81.
+27.9.3. 1, quanto major est ratio 81 ad 3 quam
+ratio 81 ad 27, tanto major est ratio l ad 3 quam
+ratio 1 3(1 27 : quanquam geometrae qui nunc sunt,
+id non concedant.
+
+Sed ex iis quae hactenus dicta sunt, constat na-
+turam rationis ne Euclidi quidem penitus perspec-
+tam fuisse3 multo autem minus Clavi03 sed minime
+omnium illis, qui nunc algebristae perhibentur.
+Nam hi, a Clavio docti denominatorem rationis in-
+dicare ipsius quantitatem, (ut 4, sive ἐξ, denominat
+indicatque quantitatem rationis 4 ad l, et {¹- indicat
+rationem 2 ad 3: sunt autem illi denominatores
+nihil aliud praeter quotientes natas ex divisione nu-
+meri per numerum), temere arripuerunt quasi rem
+demonstratam, fractionem et rationem eandem esse
+rem, nempe quantitatem absolutam et quantitatem
+comparativam ; quae comparativa, quantitas om-
+nino non est nisi respectu ad aliam rationem. Ra-
+tionis enim magnitudino non determinatur nec
+exponitur per unam lineam, sicut quantitas abso-
+luta, sed per duas. Atque ab hoc errore tot ab-
+surda consequuta sunt, ut vix magno volumine
+commode contineri possint: quorum praecipua in-
+fra paucis considerabimus, una cum aliis quae ex
+aliis principiis falsis in geometrarum scripta irrep-
+serunt.
+
+CAP. XVII.
+N—-r-—d
+
+Responsio ad
+quaedam quae-
+sita Clavii.
+

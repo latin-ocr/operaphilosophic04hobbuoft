@@ -1,0 +1,45 @@
+122 EXAMINATIO ET EMENDATIO
+
+DIALOGUS comparatione geometrica 4 ad 2, vel 2 ad 1, nul-
+
+III.
+s-——r--ae
+
+lane habita θεῖ ratio differentiae?
+
+B. AEque ac in ratione arithmetica. Nam diffe-
+rentia inter 4 et 2 est dimidium antecedentiS, et
+differentia inter 2 et 1, est item dimidium differen-
+tiae inter antecedens et consequens ; quarum diffe-
+rentiarum si nulla haberetur consideratiO, nulla
+consideraretur omnino ratio,
+
+A. Divisionz’S, inquit, quotiens ostendit rationem
+dividui ad divisorem. Verum est. Sed in sequen-
+tibus, quoties proposito suo expedit, quotientem
+semper dicit esse dividui ad divisorem rationem
+ipsam; quippe qui absque eo regulam auream de-
+monstrare non potuisset. Si pendae, inquit, A
+sit adpondus B, ut linea α ad lineam β, non tamen
+diei potest vicissim, at pondus A ad lineam α, ita
+pondus B esse ad lineam β.
+
+B. Siquidem per pondus intelligat ponderis
+quantitatem, non video cur non possit ita dici.
+Nam quantitates ponderis et lineae exhiberi possunt
+in duabus lineis.
+
+A. Consentanea haec sunt iis quae ubique habet
+loquens de natura quantitatis ; confundit enim
+abstractam cum canerem, quantitatem cum qaantO,
+tanquam significarent idem. Sed vide quam im-
+perite loquitur in sequentibus. Nosti geometraS‚
+quando datur area rectanguli cum uno coefficen-
+tium, latus alterum solere invenire per applica-
+tionem areae ad latus datum; arithmeticos autem,
+dato numero et uno numerorum per quorum mul-
+tiplicationem factus θεῖ, alterum invenire per divi-
+sionem. Itaque propter similitudinem methodi,
+divisio arithmeticorum et applicatio geometrarum
+pro eadem re haberi consuevit. Exempli causa:
+
